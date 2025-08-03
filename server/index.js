@@ -68,12 +68,12 @@ app.get('/api/search', (req, res) => {
       { platform: 'Amazon Fresh', store: 'Amazon', price: 20, link: 'https://www.amazon.in/' }
     ],
     tea: [
-      { platform: 'Amazon Fresh', store: 'Amazon', price: 138, link: 'https://www.amazon.in/' },//TATA
+      { platform: 'Amazon Fresh', store: 'Amazon', price: 314, link: 'https://www.amazon.in/' },//TATA
       { platform: 'BigBasket', store: 'More', price: 135, link: 'https://www.bigbasket.com/' }
     ],
     coffee: [
       { platform: 'Amazon Fresh', store: 'Amazon', price: 180, link: 'https://www.amazon.in/' },
-      { platform: 'JioMart', store: 'JioMart', price: 175, link: 'https://www.jiomart.com/' }
+      { platform: 'JioMart', store: 'JioMart', price: 285, link: 'https://www.jiomart.com/' }
     ]
   };
 
