@@ -68,7 +68,7 @@ app.get('/api/search', (req, res) => {
       { platform: 'Amazon Fresh', store: 'Amazon', price: 20, link: 'https://www.amazon.in/' }
     ],
     tea: [
-      { platform: 'Amazon Fresh', store: 'Amazon', price: 140, link: 'https://www.amazon.in/' },
+      { platform: 'Amazon Fresh', store: 'Amazon', price: 138, link: 'https://www.amazon.in/' },//TATA
       { platform: 'BigBasket', store: 'More', price: 135, link: 'https://www.bigbasket.com/' }
     ],
     coffee: [
