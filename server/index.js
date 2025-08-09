@@ -51,8 +51,8 @@ app.get('/api/search', (req, res) => {
       { platform: 'BigBasket', store: 'BigBasket', price: 24, link: 'https://www.bigbasket.com/' }
     ],
     potato: [
-      { platform: 'Amazon Fresh', store: 'Amazon', price: 20, link: 'https://www.amazon.in/' },
-      { platform: 'JioMart', store: 'JioMart', price: 22, link: 'https://www.jiomart.com/' }
+      { platform: 'Amazon Fresh', store: 'Amazon', price: 40, link: 'https://www.amazon.in/' },
+      { platform: 'JioMart', store: 'JioMart', price: 38, link: 'https://www.jiomart.com/' }
     ],
     wheat: [
       { platform: 'BigBasket', store: 'More', price: 45, link: 'https://www.bigbasket.com/' },
