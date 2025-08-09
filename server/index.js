@@ -64,8 +64,8 @@ app.get('/api/search', (req, res) => {
       { platform: 'BigBasket', store: 'Reliance', price: 115, link: 'https://www.bigbasket.com/' }
     ],
     salt: [
-      { platform: 'BigBasket', store: 'More', price: 18, link: 'https://www.bigbasket.com/' },
-      { platform: 'Amazon Fresh', store: 'Amazon', price: 20, link: 'https://www.amazon.in/' }
+      { platform: 'BigBasket', store: 'More', price: 19, link: 'https://www.bigbasket.com/' },
+      { platform: 'Amazon Fresh', store: 'Amazon', price: 22, link: 'https://www.amazon.in/' }
     ],
     tea: [
       { platform: 'Amazon Fresh', store: 'Amazon', price: 314, link: 'https://www.amazon.in/' },//TATA
