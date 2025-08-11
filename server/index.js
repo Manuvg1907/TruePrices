@@ -34,8 +34,8 @@ app.get('/api/search', (req, res) => {
       { platform: 'JioMart', store: 'JioMart', price: 52, link: 'https://www.jiomart.com/' }
     ],
     bread: [
-      { platform: 'BigBasket', store: 'More', price: 25, link: 'https://www.bigbasket.com/' },
-      { platform: 'Swiggy', store: 'Local Bakery', price: 28, link: 'https://www.swiggy.com/' }
+      { platform: 'BigBasket', store: 'More', price: 27, link: 'https://www.bigbasket.com/' },
+      { platform: 'Swiggy', store: 'Local Bakery', price: 25, link: 'https://www.swiggy.com/' }
     ],
     sugar: [
       { platform: 'Amazon Fresh', store: 'Amazon', price: 40, link: 'https://www.amazon.in/' },
